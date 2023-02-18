@@ -1,7 +1,7 @@
 <!-- Header -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Swastikdan.png" width="150" height="150" alt="Your Name" style="border-radius:80px;">
-</p>
+</p> -->
 
 <h1 align="center">Hi there, I'm Swastik Dan 👋</h1>
 <!-- About Me -->
