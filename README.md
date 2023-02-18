@@ -32,8 +32,8 @@
 <h2 align="center">Projects</h2>
 
 <p align="center">
-  <a href="Link to Project"><img width="300" src="https://camo.githubusercontent.com/533fb86063a4de09841e8f20fff86e3647a4dc16bba70babf0423df94acd1935/68747470733a2f2f696b2e696d6167656b69742e696f2f7377617374696b2f4e6574666c69782f4769746875625f526561646d652f53637265656e73686f745f5f3133375f5f302d6d41656265586b2e706e67" alt="Project 1"></a>
-  <a href="Link to Project"><img width="300" src="https://user-images.githubusercontent.com/57379785/190240546-345281f8-ce3d-41dd-981e-eeb150032a37.png" alt="Project 2"></a>
+  <a href="https://github.com/Swastikdan/Netflix-Clone"><img width="300" src="https://camo.githubusercontent.com/533fb86063a4de09841e8f20fff86e3647a4dc16bba70babf0423df94acd1935/68747470733a2f2f696b2e696d6167656b69742e696f2f7377617374696b2f4e6574666c69782f4769746875625f526561646d652f53637265656e73686f745f5f3133375f5f302d6d41656265586b2e706e67" alt="Project 1"></a>
+  <a href="https://github.com/Swastikdan/hoichoi-clone"><img width="300" src="https://user-images.githubusercontent.com/57379785/190240546-345281f8-ce3d-41dd-981e-eeb150032a37.png" alt="Project 2"></a>
 </p>
 
 
