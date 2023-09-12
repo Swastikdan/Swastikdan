@@ -1,58 +1,46 @@
-<!-- Header -->
-<!-- <p align="center">
-  <img src="https://github.com/Swastikdan.png" width="150" height="150" alt="Your Name" style="border-radius:80px;">
-</p> -->
+![Github_header](readme.jpg)
 
-<h1 align="center">Hi there, I'm Swastik Dan 👋</h1>
-<!-- About Me -->
-<p align="center">
-  I'm currently working on Your Current Project and learning Something You're Learning Right Now. I'm interested in collaborating on Something You're Interested In Collaborating On and you can ask me about Something You're Knowledgeable About.
-</p>
-<h3 align="center">🚀 Frontend Developer |  🎨 Graphic Designer</h3>
-
-<!-- Social media icons -->
-<p align="center">
-  <a href="https://github.com/Swastikdan"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub"></a>
-  <a href="https://www.linkedin.com/in/swastikdan/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/DanSwastik"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter"></a>
-  <a href="https://instagram.com/YourUsername"><img alt="Instagram" src="https://img.shields.io/badge/-Facebook-black?style=flat-square&logo=facebook"></a>
-</p>
-
-
-<!-- Skills -->
-<h2 align="center">🔥 Skills</h2>
-<p align="center">
-  🎨 Graphic Design |  🎨 UI/UX Design <br>
-  🚀 HTML | 🚀 CSS | 🚀 JavaScript | 🚀 React | 🚀 Taileind CSS |  🚀 Figma
-</p>
-
-
-
-
-<h2 align="center">Projects</h2>
+<h1 align="center">Hi 👋, I'm Swastik Dan</h1>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="center">
-  <a href="https://github.com/Swastikdan/Netflix-Clone"><img width="300" src="https://camo.githubusercontent.com/533fb86063a4de09841e8f20fff86e3647a4dc16bba70babf0423df94acd1935/68747470733a2f2f696b2e696d6167656b69742e696f2f7377617374696b2f4e6574666c69782f4769746875625f526561646d652f53637265656e73686f745f5f3133375f5f302d6d41656265586b2e706e67" alt="Project 1"></a>
-  <a href="https://github.com/Swastikdan/hoichoi-clone"><img width="300" src="https://user-images.githubusercontent.com/57379785/190240546-345281f8-ce3d-41dd-981e-eeb150032a37.png" alt="Project 2"></a>
+  <img src="https://komarev.com/ghpvc/?username=swastikdan&label=Profile%20views&color=0e75b6&style=flat" alt="swastikdan" />
 </p>
-
-
-
 <p align="center">
-   Clone of the website Netflix web | Clone of the website hoichoi.tv
+  I have a passion for building and designing user-friendly software.
+  I'm available for freelance projects and can help you bring your next dream project to life.
 </p>
+## 💫 About Me:
+
+- 🔭 I’m currently working on [Film Fanatic](https://github.com/Swastikdan/Film-Fanatic)
+- 🌱 I’m currently learning **React, Vue**
+- 👨‍💻 All of my projects are available at [https://swastik.vercel.app](https://swastik.vercel.app)
+- 📫 How to reach me: **iamswastik@skiff.com**
+- 📄 Know about my experiences [here](https://emgmlzforbumrtnhpaxc.supabase.co/storage/v1/object/public/portfolio_storage/SWASTIKDAN_V3_IMG.pdf)
+- ⚡ Fun fact: **Programming: Turning coffee into code**
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swastikdan/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DanSwastik) 
+
+## 💻 Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,tailwindcss,javascript,express,mongo,react,django,flask,sqlite,firebase,git,github,linux,netlify,vite,md,replit,vscode&perline=11)](https://skillicons.dev)
 
 
-<h2 align="center"> Stats</h2>
-<div align="center">
-<img width=" 350" src="https://github-readme-stats.vercel.app/api?username=Swastikdan&show_icons=true"/>
 
-</div>
+## 📊 GitHub Stats:
 <div align="center">
 
-<img width=" 350"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastikdan&layout=compact" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swastikdan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false) <br><br><br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swastikdan&theme=tokyonight&hide_border=false)<br><br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastikdan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
+<br>
 
+## 🏆 GitHub Trophies
+<div align="center">
 
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Swastikdan&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
