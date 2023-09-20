@@ -13,10 +13,10 @@
 ## 💫 About Me:
 
 - 🔭 I’m currently working on [Film Fanatic](https://github.com/Swastikdan/Film-Fanatic)
-- 🌱 I’m currently learning **React, Vue**
-- 👨‍💻 All of my projects are available at [https://swastik.vercel.app](https://swastik.vercel.app)
+- 🌱 I’m currently learning **React, Astro**
+- 👨‍💻 All of my projects are available at [https://swastikdan.in](https://swastikdan.in)
 - 📫 How to reach me: **iamswastik@skiff.com**
-- 📄 Know about my experiences [here](https://emgmlzforbumrtnhpaxc.supabase.co/storage/v1/object/public/portfolio_storage/SWASTIKDAN_V3_IMG.pdf)
+- 📄 Know about my experiences [here](https://swastikdan.in/download-cv)
 - ⚡ Fun fact: **Programming: Turning coffee into code**
 
 ## 🌐 Socials:
