@@ -10,6 +10,7 @@
   I have a passion for building and designing user-friendly software.
   I'm available for freelance projects and can help you bring your next dream project to life.
 </p>
+
 ## 💫 About Me:
 
 - 🔭 I’m currently working on [Film Fanatic](https://github.com/Swastikdan/Film-Fanatic)
@@ -33,7 +34,10 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swastikdan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false) <br><br><br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swastikdan&theme=tokyonight&hide_border=false)<br><br>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swastikdan&theme=tokyonight)](https://git.io/streak-stats)
+ <br><br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastikdan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 <br>
