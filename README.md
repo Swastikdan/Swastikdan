@@ -1,4 +1,4 @@
-![Github_header](readme.jpg)
+![Github_header](Cover.png)
 
 <h1 align="center">Hi 👋, I'm Swastik Dan</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on [Film Fanatic](https://github.com/Swastikdan/Film-Fanatic)
 - 🌱 I’m currently learning **React, Astro**
 - 👨‍💻 All of my projects are available at [https://swastikdan.in](https://swastikdan.in)
-- 📫 How to reach me: **iamswastik@skiff.com**
+- 📫 How to reach me: **contact@swastikdan.in**
 - 📄 Know about my experiences [here](https://swastikdan.in/download-cv)
 - ⚡ Fun fact: **Programming: Turning coffee into code**
 
