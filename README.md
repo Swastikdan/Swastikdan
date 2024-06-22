@@ -1,4 +1,4 @@
-![github header](cover-rounded.png)
+![github header](cover-rounded-30.png)
 
 ### 💫 About Me:
 
