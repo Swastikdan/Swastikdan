@@ -10,7 +10,8 @@
 
 ### 🌐 Socials:
 
-[ **`Linkdin`** ](https://linkedin.com/in/swastikdan/) [ **`Portfolio`** ](https://www.swastikdan.in/)
+[**`Linkdin`**](https://linkedin.com/in/swastikdan/) 
+[**`Portfolio`**](https://www.swastikdan.in/)
 
 ### 💻 Tech Stack:
 
