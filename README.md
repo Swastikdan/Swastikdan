@@ -1,50 +1,86 @@
-![Github_header](Cover.png)
-
-<h1 align="center">Hi 👋, I'm Swastik Dan</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swastikdan&label=Profile%20views&color=0e75b6&style=flat" alt="swastikdan" />
-</p>
-<p align="center">
-  I have a passion for building and designing user-friendly software.
-  I'm available for freelance projects and can help you bring your next dream project to life.
-</p>
-
-## 💫 About Me:
-
-- 🔭 I’m currently working on [Film Fanatic](https://github.com/Swastikdan/Film-Fanatic)
-- 🌱 I’m currently learning **React, Astro**
-- 👨‍💻 All of my projects are available at [https://swastikdan.in](https://swastikdan.in)
-- 📫 How to reach me: **contact@swastikdan.in**
-- 📄 Know about my experiences [here](https://swastikdan.in/download-cv)
-- ⚡ Fun fact: **Programming: Turning coffee into code**
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swastikdan/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DanSwastik) 
-
-## 💻 Tech Stack:
-
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,tailwindcss,javascript,express,mongo,react,django,flask,sqlite,firebase,git,github,linux,netlify,vite,md,replit,vscode&perline=11)](https://skillicons.dev)
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 
 
-## 📊 GitHub Stats:
-<div align="center">
+.body {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+}
+.image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+/*  gray box shadow  */
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1), 0 2px 4px 0 rgba(0, 0, 0, 0.08);
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swastikdan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false) <br><br><br>
+  margin: 0;
+  margin-bottom: 20px;
+  border-width: 2px;
+  border-color: rgb(148 163 184);
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swastikdan&theme=tokyonight)](https://git.io/streak-stats)
- <br><br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastikdan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+}
+
+.padding-div{
+  height: 10px;
+}
+
+</style>
+
+<div class='body'>
+
+<img src='Cover.png' alt='github header' class='image' >
+
+<!-- Introduction -->
+
+```JavaScript
+ 💫 About Me:
+```
+
+- 🙋‍♂️ Hi 👋, I'm Swastik Dan
+- 🚀 A passionate Full Stack developer
+- 🔭 I’m currently working on [**`Film Fanatic`**](https://github.com/Swastikdan/Film-Fanatic)
+
+- 🌱 I’m currently learning **`React` `Astro` `Next Js`**
+- 📫 How to reach me: **`contact@swastikdan.in`**
+
+<div class='padding-div'>
+
 </div>
-<br>
 
-## 🏆 GitHub Trophies
-<div align="center">
+```JavaScript
+  🌐 Socials:
+```
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Swastikdan&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+<div class='padding-div'>
+
 </div>
 
+[ **`Linkdin`** ](https://linkedin.com/in/swastikdan/) [ **`Portfolio`** ](https://www.swastikdan.in/)
+
+<div class='padding-div'>
+
+</div>
+
+```JavaScript
+  💻 Tech Stack:
+```
+
+<div class='padding-div'>
+
+</div>
+
+**Language** : **`JavaScript` `Java`**
+
+**Frontend**: **`React` `HTML` `CSS` `Tailwind` `Next Js` `Astro`**
+
+**Backend**: **`Express` `MongoDB` `Mongoose` `SQL`**
+
+</div>
